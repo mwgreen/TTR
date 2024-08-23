@@ -6,7 +6,7 @@ Authors@R: c(
   person(given="Joshua", family="Ulrich", role=c("cre","aut"), email="josh.m.ulrich@gmail.com"),
   person(given=c("Ethan","B."), family="Smith", role="ctb")
   )
-Imports: xts (>= 0.10-0), zoo, curl
+Imports: xts (>= 0.10-0), zoo
 LinkingTo: xts
 Enhances: quantmod
 Suggests: RUnit
